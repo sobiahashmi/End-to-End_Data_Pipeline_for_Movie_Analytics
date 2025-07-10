@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-joblib
 matplotlib
+joblib
 scikit-learn
-LabelEncoder
